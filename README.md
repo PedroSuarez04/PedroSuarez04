@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**PedroSuarez04/PedroSuarez04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on my Computer Science degree and on building a resume with my job.
+- 🌱 I’m currently learning HTML/CSS/JavaScript again via Intro to Web Programming.
+- 👯 I’m looking to collaborate on a student project for my Bacehelor's.
+- 🤔 I’m looking for help with One Piece TCG.
+- 💬 Ask me about Anime.
+- 📫 How to reach me: Phone #: 954-471-2896, Discord: omori__
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I occasionally go autocrossing with my 2015 BMW 428i Coupe
+
